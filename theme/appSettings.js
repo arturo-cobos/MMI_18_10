@@ -1,0 +1,11 @@
+theApp.settings.enableProfiling=false
+theApp.settings.enableBookmark=true
+theApp.settings.autoSyncContentWithView=false
+theApp.settings.enableSearch=true
+theApp.settings.searchServlet=null
+theApp.settings.showBanner=true
+theApp.feedbackURL="www.indudata.com"
+theApp.configurationTitle="Marco Metodológico adaptado a Claro SA"
+theApp.infoFileName="about.htm"
+theApp.bannerFileName="bannerIndudata2016.gif"
+theApp.bannerHeight="70px"

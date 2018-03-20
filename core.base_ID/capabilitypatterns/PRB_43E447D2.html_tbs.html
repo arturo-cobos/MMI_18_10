@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="es" xml:lang="es">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Patrón de posibilidad: PRB</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="PRB">
+<meta name="uma.presentationName" content="PRB">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="none">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_n6hDMSKtEeaTVrlJIawuTQ&path=_n6hDMSKtEeaTVrlJIawuTQ';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_n6hDMSKtEeaTVrlJIawuTQ"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Patrón de posibilidad: PRB</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../core.base_ID/capabilitypatterns/PRB_43E447D2.html_desc.html">Descripción</a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WBS" href="./../../core.base_ID/capabilitypatterns/PRB_43E447D2.html_wbs.html"><span style="white-space:nowrap;">Estructura de desglose de trabajo</span></a></td><td width="1"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Asignación de equipos</span></td><td width="21"><img src="./../../images/tab_middle-a_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WPBS" href="./../../core.base_ID/capabilitypatterns/PRB_43E447D2.html_wpbs.html"><span style="white-space:nowrap;">Utilización del producto de trabajo</span></a></td><td width="21"><img src="./../../images/tab_end-i.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="4"><img src="./../../images/shim.gif" alt="" title="" height="2"></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="3"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Anomalía del equipo</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Anomalía del equipo", summary: "Anomalía del equipo", 
+columns: [
+["presentation_name", "Elemento de desglose"],
+["model_info", "Información del modelo"],
+["teams", "Equipo"],
+["type", "Tipo"],
+["is_planned", "Planeado"],
+["has_multiple_occurrences", "Varias apariciones"],
+["is_optional", "Opcional"]],
+rows: [
+
+{id: "8c378ee0", parentId: "", relPath: ",_SLKf4SQjEeafHYiLU-YTMg", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "Ingeniero de requerimientos", title: "Ingeniero de requerimientos", url: "./../../core.base_ID/roles/Ingeniero de requerimientos_D3593F8A.html", 
+	predecessors: "", info: "", type: "Descriptor de roles", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "f90bfc84", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", title: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", url: "./../../core.base_ID/workproducts/Artefactos de análisis de negocio e ingeniería de requerimientos_6D55EFF0.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "5a9a3b5c", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Documento con observaciones y o modificaciones", title: "Documento con observaciones y/o modificaciones.", url: "./../../core.base_ID/workproducts/Documento con observaciones y o modificaciones_32A4637D.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "41155f38", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Esimación de tiempo y esfuerzo", title: "Esimación de tiempo y esfuerzo", url: "./../../core.base_ID/workproducts/Esimación de tiempo y esfuerzo_843CA0CB.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "2b15baee", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Estimación de tiempo para actividades de desarrollo y pruebas", title: "Estimación de tiempo para actividades de desarrollo y pruebas", url: "./../../core.base_ID/workproducts/Estimación de tiempo para actividades de desarrollo y pruebas_FC322B37.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "9127816a", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP Cerrado y aprobado", title: "FSP Cerrado y aprobado", url: "./../../core.base_ID/workproducts/FSP Cerrado y aprobado_2462C71.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "5fcef694", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP validado y aprobado", title: "FSP validado y aprobado", url: "./../../core.base_ID/workproducts/FSP validado y aprobado_6361673A.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "acc86d56", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Listado de observaciones y o cambios al FSP", title: "Listado de observaciones y o cambios al FSP", url: "./../../core.base_ID/workproducts/Listado de observaciones y o cambios al FSP_66C8F4E3.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "c88a3c46", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Matriz de configuración de proceso", title: "Matriz de configuración de proceso", url: "./../../core.base_ID/workproducts/Matriz de configuración de proceso_8DB44C79.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "d1884ae2", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Propuesta de Especificación Funcional (FSP)", title: "Propuesta de Especificación Funcional (FSP)", url: "./../../core.base_ID/workproducts/Propuesta de Especificación Funcional FSP_416A4DA8.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "7ff3074e", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Análisis de Negocio e Ingeniería de Requerimientos", title: "Análisis de Negocio e Ingeniería de Requerimientos.", url: "./../../core.base_ID/tasks/Análisis de Negocio e Ingeniería de Requerimientos_1064AE8B.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "830bb2be", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T2_Apoyo al usuario en elaboración del FSP", title: "PRB_T2_Apoyo al usuario en elaboración del FSP", url: "./../../core.base_ID/tasks/PRB_T2_Apoyo al usuario en elaboración del FSP_C778D7E2.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "bebf10e2", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T2_Control de calidad del FSP", title: "PRB_T2_Control de calidad del FSP", url: "./../../core.base_ID/tasks/PRB_T2_Control de calidad del FSP_D34FD927.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "d60cff86", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Cierre del FSP", title: "PRB_T3_Cierre del FSP", url: "./../../core.base_ID/tasks/PRB_T3_Cierre del FSP_D4BF543C.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3c2cdd84", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Recorrido sobre el FSP", title: "PRB_T3_Recorrido sobre el FSP", url: "./../../core.base_ID/tasks/PRB_T3_Recorrido sobre el FSP_60E52966.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "38bce832", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T4_Estimación etapa de requerimientos", title: "PRB_T4_Estimación etapa de requerimientos", url: "./../../core.base_ID/tasks/PRB_T4_Estimación etapa de requerimientos_15825A5C.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "695d146e", parentId: "8c378ee0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T4_Estimación etapas de desarrollo y pruebas", title: "PRB_T4_Estimación etapas de desarrollo y pruebas", url: "./../../core.base_ID/tasks/PRB_T4_Estimación etapas de desarrollo y pruebas_DBECCA5A.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "be6c7b00", parentId: "", relPath: ",_xDAaAzlcEeaNotA8WqGP2A", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "Ingeniero de Requerimientos", title: "Ingeniero de Requerimientos", url: "./../../core.base_ID/roles/Ingeniero de Requerimientos_7F4E9F4A.html", 
+	predecessors: "", info: "", type: "Descriptor de roles", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4e45f00", parentId: "", relPath: ",_SLKf5CQjEeafHYiLU-YTMg", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "Líder de requerimientos Claro", title: "Líder de requerimientos Claro", url: "./../../core.base_ID/roles/Líder de requerimientos Claro_47EAE97F.html", 
+	predecessors: "", info: "", type: "Descriptor de roles", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "470b90e6", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", title: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", url: "./../../core.base_ID/workproducts/Artefactos de análisis de negocio e ingeniería de requerimientos_6D55EFF0.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "b0c0392", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP Cerrado y aprobado", title: "FSP Cerrado y aprobado", url: "./../../core.base_ID/workproducts/FSP Cerrado y aprobado_2462C71.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "de5cfa3a", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP validado y aprobado", title: "FSP validado y aprobado", url: "./../../core.base_ID/workproducts/FSP validado y aprobado_6361673A.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "2d7c05ca", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Listado de observaciones y o cambios al FSP", title: "Listado de observaciones y o cambios al FSP", url: "./../../core.base_ID/workproducts/Listado de observaciones y o cambios al FSP_66C8F4E3.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "28a9b096", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Análisis de Negocio e Ingeniería de Requerimientos", title: "Análisis de Negocio e Ingeniería de Requerimientos.", url: "./../../core.base_ID/tasks/Análisis de Negocio e Ingeniería de Requerimientos_1064AE8B.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4fa63b1e", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Cierre del FSP", title: "PRB_T3_Cierre del FSP", url: "./../../core.base_ID/tasks/PRB_T3_Cierre del FSP_D4BF543C.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "86d6119e", parentId: "4e45f00", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Recorrido sobre el FSP", title: "PRB_T3_Recorrido sobre el FSP", url: "./../../core.base_ID/tasks/PRB_T3_Recorrido sobre el FSP_60E52966.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "cc0c95c6", parentId: "", relPath: ",_HAFbsTllEeaNotA8WqGP2A", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "Líder de requerimientos gerencia TI", title: "Líder de requerimientos gerencia TI", url: "./../../core.base_ID/roles/Líder de requerimientos gerencia TI_40052493.html", 
+	predecessors: "", info: "", type: "Descriptor de roles", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "1df79366", parentId: "cc0c95c6", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Propuesta de Especificación Funcional (FSP)", title: "Propuesta de Especificación Funcional (FSP)", url: "./../../core.base_ID/workproducts/Propuesta de Especificación Funcional FSP_416A4DA8.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "648cd36a", parentId: "cc0c95c6", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T2_Apoyo al usuario en elaboración del FSP", title: "PRB_T2_Apoyo al usuario en elaboración del FSP", url: "./../../core.base_ID/tasks/PRB_T2_Apoyo al usuario en elaboración del FSP_C778D7E2.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "90031ac0", parentId: "", relPath: ",_SLKf5yQjEeafHYiLU-YTMg", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "Usuario área de negocio líder de la iniciativa", title: "Usuario área de negocio líder de la iniciativa", url: "./../../core.base_ID/roles/Usuario área de negocio líder de la iniciativa_77E3C185.html", 
+	predecessors: "", info: "", type: "Descriptor de roles", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "b0ceb5bc", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", title: "Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud", url: "./../../core.base_ID/workproducts/Artefactos de análisis de negocio e ingeniería de requerimientos_6D55EFF0.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "6c12444", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Documento con observaciones y o modificaciones", title: "Documento con observaciones y/o modificaciones.", url: "./../../core.base_ID/workproducts/Documento con observaciones y o modificaciones_32A4637D.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "1a9a06c0", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP Cerrado y aprobado", title: "FSP Cerrado y aprobado", url: "./../../core.base_ID/workproducts/FSP Cerrado y aprobado_2462C71.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "2164690c", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "FSP validado y aprobado", title: "FSP validado y aprobado", url: "./../../core.base_ID/workproducts/FSP validado y aprobado_6361673A.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3c6f0662", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Listado de observaciones y o cambios al FSP", title: "Listado de observaciones y o cambios al FSP", url: "./../../core.base_ID/workproducts/Listado de observaciones y o cambios al FSP_66C8F4E3.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "553c2c92", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Propuesta de Especificación Funcional (FSP)", title: "Propuesta de Especificación Funcional (FSP)", url: "./../../core.base_ID/workproducts/Propuesta de Especificación Funcional FSP_416A4DA8.html", 
+	predecessors: "", info: "Modifica", type: "Descriptor de artefacto", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "b4b2ee1e", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "Análisis de Negocio e Ingeniería de Requerimientos", title: "Análisis de Negocio e Ingeniería de Requerimientos.", url: "./../../core.base_ID/tasks/Análisis de Negocio e Ingeniería de Requerimientos_1064AE8B.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e38f15a2", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T2_Apoyo al usuario en elaboración del FSP", title: "PRB_T2_Apoyo al usuario en elaboración del FSP", url: "./../../core.base_ID/tasks/PRB_T2_Apoyo al usuario en elaboración del FSP_C778D7E2.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "fb3fa8d4", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T2_Control de calidad del FSP", title: "PRB_T2_Control de calidad del FSP", url: "./../../core.base_ID/tasks/PRB_T2_Control de calidad del FSP_D34FD927.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3b39e3e8", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Cierre del FSP", title: "PRB_T3_Cierre del FSP", url: "./../../core.base_ID/tasks/PRB_T3_Cierre del FSP_D4BF543C.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "713fb88e", parentId: "90031ac0", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "PRB_T3_Recorrido sobre el FSP", title: "PRB_T3_Recorrido sobre el FSP", url: "./../../core.base_ID/tasks/PRB_T3_Recorrido sobre el FSP_60E52966.html", 
+	predecessors: "", info: "Actúa como propietario", type: "Descriptor de tareas", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

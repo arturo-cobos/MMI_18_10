@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RoleSets nodeId="e4b70e17">
+<RoleSet pname="Roles Claro" name="Roles Claro" nodeId="36adc939">
+<Role pname="Arquitectura de TI" name="Arquitectura de TI" nodeId="1d5b8ba1"></Role>
+<Role pname="Coordinador del servicio - Claro" name="Coordinador del servicio - Claro" nodeId="5325ff99"></Role>
+<Role pname="Usuario de Negocio Responsable de la Iniciativa" name="Usuario de Negocio Responsable de la Iniciativa" nodeId="a402e493"></Role>
+<Role pname="Gerente de proyecto de PMO" name="Gerente de proyecto de PMO" nodeId="8ab0a6fb"></Role>
+<Role pname="Líder de desarrollo TI gerencias impactadas" name="Líder de desarrollo TI gerencias impactadas" nodeId="df0554f3"></Role>
+<Role pname="Experto TI del sistema" name="Experto TI del sistema" nodeId="c460e32b"></Role>
+<Role pname="Líder de requerimientos TI gerencias impactadas" name="Líder de requerimientos TI gerencias impactadas" nodeId="168ffc55"></Role>
+</RoleSet>
+<RoleSet pname="Roles Indudata" name="Roles Indudata" nodeId="ff63538b">
+<Role pname="Coodinador de requerimientos" name="Coodinador de requerimientos" nodeId="274be6b5"></Role>
+<Role pname="Lider de requerimientos" name="Lider de requerimientos" nodeId="797affdf"></Role>
+<Role pname="Ingeniero de Requerimientos" name="Ingeniero de Requerimientos" nodeId="624e5715"></Role>
+<Role pname="Diseñador." name="Diseñador" nodeId="b32b3c0f"></Role>
+</RoleSet>
+<RoleSet pname="Roles Aseguramiento de Proceso Claro" name="Roles Aseguramiento de Proceso Claro" nodeId="99d8fe77"></RoleSet>
+<RoleSet pname="Roles Terceros" name="Roles Terceros" nodeId="c5395a9f"></RoleSet>
+<RoleSet pname="Roles Indudata" name="Roles Indudata" nodeId="d4db6ed7">
+<Role pname="Coodinador de requerimientos" name="Coodinador de requerimientos" nodeId="fcc40201"></Role>
+<Role pname="Lider de requerimientos" name="Lider de requerimientos" nodeId="4ef31b2b"></Role>
+<Role pname="Ingeniero de Requerimientos" name="Ingeniero de Requerimientos" nodeId="37c67261"></Role>
+<Role pname="Diseñador." name="Diseñador" nodeId="88a3575b"></Role>
+</RoleSet>
+<RoleSet pname="Gestión de Proyectos" name="Gestión de Proyectos" nodeId="7e64b311"></RoleSet>
+<RoleSet pname="Pruebas" name="Pruebas" nodeId="a9c50f39"></RoleSet>
+<RoleSet pname="Ingeniería de Requerimientos y Análisis de Negocio" name="Ingeniería de Requerimientos y Análisis de Negocio" nodeId="faa1f433">
+<Role pname="Ingeniero de Requerimientos" name="Ingeniero de Requerimientos" nodeId="e14fb69b"></Role>
+</RoleSet>
+<RoleSet pname="Gestión de Contratos" name="Gestión Cuenta" nodeId="35a46493"></RoleSet>
+<RoleSet pname="Gestión de Proceso y Aseguramiento de Calidad" name="Gestión de Proceso y Aseguramiento de Calidad" nodeId="1afff2cb"></RoleSet>
+<RoleSet pname="Oficina de Gestión de Calidad" name="Oficina de Gestión de Calidad" nodeId="443aba25"></RoleSet>
+<RoleSet pname="Roles Claro" name="Roles Claro" nodeId="97f46587">
+<Role pname="Arquitectura de TI" name="Arquitectura de TI" nodeId="80c7bcbd"></Role>
+<Role pname="Coordinador del servicio - Claro" name="Coordinador del servicio - Claro" nodeId="d1a4a1b7"></Role>
+<Role pname="Usuario de Negocio Responsable de la Iniciativa" name="Usuario de Negocio Responsable de la Iniciativa" nodeId="c2bc7bef"></Role>
+<Role pname="Gerente de proyecto de PMO" name="Gerente de proyecto de PMO" nodeId="171129e7"></Role>
+<Role pname="Líder de desarrollo TI gerencias impactadas" name="Líder de desarrollo TI gerencias impactadas" nodeId="fc6cb81f"></Role>
+<Role pname="Experto TI del sistema" name="Experto TI del sistema" nodeId="25a77f79"></Role>
+<Role pname="Líder de requerimientos TI gerencias impactadas" name="Líder de requerimientos TI gerencias impactadas" nodeId="79fc2d71"></Role>
+</RoleSet>
+<RoleSet pname="Roles Indudata" name="Roles Indudata" nodeId="5f57bba9">
+<Role pname="Coodinador de requerimientos" name="Coodinador de requerimientos" nodeId="b186d4d3"></Role>
+<Role pname="Lider de requerimientos" name="Lider de requerimientos" nodeId="9a5a2c09"></Role>
+<Role pname="Ingeniero de Requerimientos" name="Ingeniero de Requerimientos" nodeId="c394f363"></Role>
+<Role pname="Diseñador." name="Diseñador" nodeId="1471d85d"></Role>
+</RoleSet>
+<RoleSet pname="Roles Aseguramiento de Proceso Claro" name="Roles Aseguramiento de Proceso Claro" nodeId="fb1f9ac5"></RoleSet>
+<RoleSet pname="Roles Terceros" name="Roles Terceros" nodeId="4f7448bd"></RoleSet>
+</RoleSets>

@@ -1,0 +1,550 @@
+Información: CustomCategory:Fuentes de Referencias: 16 mini seconds publishing element
+Información: Concept:Concepto1: 47 mini seconds publishing element
+Información: CustomCategory:Marco metodológico de Indudata para Claro SA: 0 mini seconds publishing element
+Información: Discipline:disciplina_id_req_ClaroSA: 15 mini seconds publishing element
+Información: Discipline:PRB: 172 mini seconds publishing element
+Información: Task:Análisis de Negocio e Ingeniería de Requerimientos: 15 mini seconds publishing element
+Información: Task:PRB_T3_Cierre del FSP: 16 mini seconds publishing element
+Información: Task:PRB_T3_Recorrido sobre el FSP: 16 mini seconds publishing element
+Información: Task:PRB_T4_Estimación etapa de requerimientos: 15 mini seconds publishing element
+Información: Task:PRB_T4_Estimación etapas de desarrollo y pruebas: 16 mini seconds publishing element
+Información: : 1498 mini-second(s) publishing element CapabilityPattern:BA e Ing Req PMI ValApr Exportado[core.base_ID\capabilitypatterns\BA e Ing Req PMI ValApr Exportado_FCBBA028.html]
+Información: CapabilityPattern:BA e Ing Req PMI ValApr Exportado: 1498 mini seconds publishing element
+Información: CapabilityPattern:BA e Ing Req PMI ValApr Exportado: 765 mini seconds publishing process specific layout data
+Información: CapabilityPattern:PRB: 296 mini seconds publishing element
+Información: CapabilityPattern:PRB: 79 mini seconds publishing process specific layout data
+Información: Task:Administrar la trazabilidad de los requerimientos: 0 mini seconds publishing element
+Información: Task:Administrar los Requerimientos de la solución: 16 mini seconds publishing element
+Información: Task:Administrar y reportar el desempeño del proceso: 16 mini seconds publishing element
+Información: Task:Analizar Documentación relacionada con el Negocio: 0 mini seconds publishing element
+Información: Task:Analizar el Proceso y Reglas de Negocio: 15 mini seconds publishing element
+Información: Task:Analizar interesados: 0 mini seconds publishing element
+Información: Task:Analizar los Sistemas actuales del Negocio: 16 mini seconds publishing element
+Información: Task:Asociar Requerimientos a Alternativas de Solución: 0 mini seconds publishing element
+Información: Task:Capturar Vocabulario Común: 15 mini seconds publishing element
+Información: Task:Definir alcance de la solución: 0 mini seconds publishing element
+Información: Task:Definir contexto e inventario de fuentes de requerimientos de la solución: 16 mini seconds publishing element
+Información: Task:Definir el caso de negocio: 16 mini seconds publishing element
+Información: Task:Definir el Problema y la Visión de la Solución: 0 mini seconds publishing element
+Información: Task:Definir la estrategia de análisis de negocio y Requerimientos: 15 mini seconds publishing element
+Información: Task:Definir plan de administración de requerimientos: 0 mini seconds publishing element
+Información: Task:Definir requerimientos de transición hacia la nueva solución: 16 mini seconds publishing element
+Información: Task:Definir restricciones y supuestos: 15 mini seconds publishing element
+Información: Task:Definir y Trazar necesidades del negocio: 0 mini seconds publishing element
+Información: Task:Documentación y Modelamiento de requerimientos: 16 mini seconds publishing element
+Información: Task:Documentar Requerimientos No Funcionales: 0 mini seconds publishing element
+Información: Task:Elaborar y o Refinar Configuración del Proceso de Requerimientos y Análisis de Negocio: 16 mini seconds publishing element
+Información: Task:Estimar basado en PCU: 15 mini seconds publishing element
+Información: Task:Estimar basado en puntos funcion: 0 mini seconds publishing element
+Información: Task:Evaluar Alternativas de Solución Propuestas: 16 mini seconds publishing element
+Información: Task:Evaluar nivel de preparación de la organización: 15 mini seconds publishing element
+Información: Task:Identificar y Mantener Reglas de Negocio: 0 mini seconds publishing element
+Información: Task:Identificar y Trazar los Motivadores de Negocio para la Solicitud: 16 mini seconds publishing element
+Información: Task:Mantenimiento de requerimientos para la reutilización: 0 mini seconds publishing element
+Información: Task:Obtener Información: 16 mini seconds publishing element
+Información: Task:Organizar requerimientos: 15 mini seconds publishing element
+Información: Task:Planear actividades: 0 mini seconds publishing element
+Información: Task:Preparación del paquete de requerimientos: 16 mini seconds publishing element
+Información: Task:Priorizar Requerimientos: 0 mini seconds publishing element
+Información: Task:Recibir y Registrar Solicitud Formal de Trabajo de Requerimientos y Análisis de Negocio: 15 mini seconds publishing element
+Información: Task:Validar conformidad entre las posibles soluciones y los requerimientos: 16 mini seconds publishing element
+Información: Task:Validar y aprobar los entregables: 0 mini seconds publishing element
+Información: Task:Valorar la efectividad de la solución implantada: 16 mini seconds publishing element
+Información: Task:Verificar internamente la calidad de los entregables: 15 mini seconds publishing element
+Información: RoleSetGrouping:Roles Análisis de Negocio e Ingeniería de Requerimientos para Claro SA: 0 mini seconds publishing element
+Información: RoleSet:Roles Claro: 16 mini seconds publishing element
+Información: Role:Arquitectura de TI: 31 mini seconds publishing element
+Información: Role:Coordinador del servicio - Claro: 219 mini seconds publishing element
+Información: Role:Usuario de Negocio Responsable de la Iniciativa: 188 mini seconds publishing element
+Información: Role:Gerente de proyecto de PMO: 197 mini seconds publishing element
+Información: Role:Líder de desarrollo TI gerencias impactadas: 348 mini seconds publishing element
+Información: Role:Experto TI del sistema: 34 mini seconds publishing element
+Información: Role:Líder de requerimientos TI gerencias impactadas: 46 mini seconds publishing element
+Información: RoleSet:Roles Indudata: 16 mini seconds publishing element
+Información: Role:Coodinador de requerimientos: 47 mini seconds publishing element
+Información: Role:Lider de requerimientos: 15 mini seconds publishing element
+Información: Role:Ingeniero de Requerimientos: 125 mini seconds publishing element
+Información: Role:Diseñador: 31 mini seconds publishing element
+Información: Domain:Entregables Análisis de Negocio e Ingeniería de Requerimientos para Claro SA: 16 mini seconds publishing element
+Información: Artifact:Acta de Aprobación Final: 16 mini seconds publishing element
+Información: Artifact:Actas de Recorridos: 0 mini seconds publishing element
+Información: Artifact:Actas de Recorridos con acuerdos de ajustes a Realizar y plan de seguimiento: 15 mini seconds publishing element
+Información: Artifact:Alcance de la Solución: 0 mini seconds publishing element
+Información: Artifact:Alternativas de solución identificadas: 16 mini seconds publishing element
+Información: Artifact:Caso de Negocios y rol del proyecto: 0 mini seconds publishing element
+Información: Artifact:Confirmación de Cambio de Estado de la Solicitud enviado a Interesado(s): 15 mini seconds publishing element
+Información: Artifact:Consolidados de Administración de Ajustes: 100 mini seconds publishing element
+Información: Artifact:Contexto de la Solución: 16 mini seconds publishing element
+Información: Artifact:Contexto e Inventario de Fuentes de Información: 0 mini seconds publishing element
+Información: Artifact:Cronograma actualizado: 15 mini seconds publishing element
+Información: Artifact:Cronograma de Actividades: 0 mini seconds publishing element
+Información: Artifact:Cronograma de Trabajo (creado o actualizado): 16 mini seconds publishing element
+Información: Artifact:Cuadro de Mando Medio Ponderado: 0 mini seconds publishing element
+Información: Artifact:Diagramas de proceso: 0 mini seconds publishing element
+Información: Artifact:Documento de contexto de la gerencia: 16 mini seconds publishing element
+Información: Artifact:Documento de Evaluación de soluciones propuestas: 0 mini seconds publishing element
+Información: Artifact:Documento de Visión: 15 mini seconds publishing element
+Información: Artifact:Entregables definidos en la matriz de configuración del proceso de la solicitud: 0 mini seconds publishing element
+Información: Artifact:Entregables inspeccionados con ajustes sugeridos: 17 mini seconds publishing element
+Información: Artifact:Especificación de Caso de Uso: 0 mini seconds publishing element
+Información: Artifact:Especificación de Requerimientos de Software (SRS): 15 mini seconds publishing element
+Información: Artifact:Especificación Funcional: 0 mini seconds publishing element
+Información: Artifact:Especificación Requerimientos No Funcionales: 16 mini seconds publishing element
+Información: Artifact:Estimación de Esfuerzo basada en PCUs: 0 mini seconds publishing element
+Información: Artifact:Estimación de Esfuerzo basada en Puntos Función: 16 mini seconds publishing element
+Información: Artifact:Estimación de esfuerzo para la elaboración de la Configuración del Proceso: 0 mini seconds publishing element
+Información: Artifact:Evaluación del nivel de preparación de la organización: 31 mini seconds publishing element
+Información: Artifact:Glosario base: 15 mini seconds publishing element
+Información: Artifact:Hoja de Configuración elaborada o actualizada: 0 mini seconds publishing element
+Información: Artifact:Indicadores o características definidas en T2_Proceso PRB1: 0 mini seconds publishing element
+Información: Artifact:Inventario de fuentes: 0 mini seconds publishing element
+Información: Artifact:Inventario de fuentes ( hoja documentación): 16 mini seconds publishing element
+Información: Artifact:Inventario de fuentes (hoja interesados): 0 mini seconds publishing element
+Información: Artifact:Inventario de fuentes (hoja sistemas): 15 mini seconds publishing element
+Información: Artifact:Matriz de configuración de proceso (Hoja Interesados): 0 mini seconds publishing element
+Información: Artifact:Matriz de Configuración del Proceso: 16 mini seconds publishing element
+Información: Artifact:Matriz de Estimación basada en Puntos de Caso de Uso: 0 mini seconds publishing element
+Información: Artifact:Matriz de Estimación basada en Puntos de Función: 15 mini seconds publishing element
+Información: Artifact:Matriz de Trazabilidad: 16 mini seconds publishing element
+Información: Artifact:Métricas de los indicadores definidos en la solicitud: 0 mini seconds publishing element
+Información: Artifact:Modelo de Proceso del Negocio actual o futuro: 0 mini seconds publishing element
+Información: Artifact:Modelo de Requerimientos: 16 mini seconds publishing element
+Información: Artifact:Necesidades del negocio: 0 mini seconds publishing element
+Información: Artifact:Objetivos del negocio: 15 mini seconds publishing element
+Información: Artifact:Objetivos y Problemas del Negocio: 47 mini seconds publishing element
+Información: Artifact:Paquete de Requerimientos para entrega: 50 mini seconds publishing element
+Información: Artifact:Plan de Administración de Requerimientos: 1 mini seconds publishing element
+Información: Artifact:Plan de Administración de Requerimientos Base: 16 mini seconds publishing element
+Información: Artifact:Proceso Configurado: 0 mini seconds publishing element
+Información: Artifact:Proceso de negocio: 15 mini seconds publishing element
+Información: Artifact:Producto de Trabajo: 0 mini seconds publishing element
+Información: Artifact:Propuesta de Especificación Funcional (FSP): 16 mini seconds publishing element
+Información: Artifact:Registro de Aprobación Tácita: 0 mini seconds publishing element
+Información: Artifact:Reglas de Negocio: 16 mini seconds publishing element
+Información: Artifact:Reporte de Desempeño del Proceso: 15 mini seconds publishing element
+Información: Artifact:Reportes de requerimientos implementados: 16 mini seconds publishing element
+Información: Artifact:Repositorio de Requerimientos Actualizado: 0 mini seconds publishing element
+Información: Artifact:Repositorio de requerimientos priorizado: 0 mini seconds publishing element
+Información: Artifact:Requerimientos: 16 mini seconds publishing element
+Información: Artifact:Requerimientos aprobados: 0 mini seconds publishing element
+Información: Artifact:Requerimientos de Transición: 20 mini seconds publishing element
+Información: Artifact:Requerimientos documentados: 1 mini seconds publishing element
+Información: Artifact:Restricciones y supuestos identificados en las actividades de obtención de requerimientos: 0 mini seconds publishing element
+Información: Artifact:Resultado de la obtención de requerimientos: 15 mini seconds publishing element
+Información: Artifact:Resultados de Inspecciones: 0 mini seconds publishing element
+Información: Artifact:Solicitud con Estado actualizado: 16 mini seconds publishing element
+Información: Artifact:Solución implantada: 0 mini seconds publishing element
+Información: Artifact:Tablero de Control: 16 mini seconds publishing element
+Información: Artifact:Técnicas de Obtención Configuradas para cada Fuente: 0 mini seconds publishing element
+Información: Artifact:Técnicas de Obtención Definidas: 16 mini seconds publishing element
+Información: Artifact:Todos los entregables de Requerimientos: 0 mini seconds publishing element
+Información: Role:Ingeniero de requerimientos: 460 mini seconds publishing element
+Información: Role:Líder de requerimientos Claro: 16 mini seconds publishing element
+Información: Role:Usuario área de negocio líder de la iniciativa: 31 mini seconds publishing element
+Información: Artifact:FSP cerrado: 15 mini seconds publishing element
+Información: Artifact:Matriz de configuración de proceso: 0 mini seconds publishing element
+Información: Artifact:Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud: 16 mini seconds publishing element
+Información: Artifact:FSP preliminar: 0 mini seconds publishing element
+Información: Artifact:FSP Cerrado y aprobado: 0 mini seconds publishing element
+Información: Artifact:FSP a ser validado: 16 mini seconds publishing element
+Información: Artifact:FSP validado y aprobado: 0 mini seconds publishing element
+Información: Artifact:Listado de observaciones y o cambios al FSP: 0 mini seconds publishing element
+Información: Artifact:Inventario de Fuentes: 15 mini seconds publishing element
+Información: Artifact:Esimación de tiempo y esfuerzo: 0 mini seconds publishing element
+Información: Artifact:Estimación de tiempo para actividades de desarrollo y pruebas: 16 mini seconds publishing element
+Información: Activity:Planear, Monitorear y  Controlar el Proceso: 62 mini seconds publishing element
+Información: TaskDescriptor:Planear actividades: 0 mini seconds publishing element
+Información: RoleDescriptor:Coodinador de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Coordinador del servicio - Claro: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Configuración del Proceso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cronograma de Trabajo (creado o actualizado): 0 mini seconds publishing element
+Información: TaskDescriptor:Administrar y reportar el desempeño del proceso: 0 mini seconds publishing element
+Información: RoleDescriptor:Control Calidad: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Actas de Recorridos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Consolidados de Administración de Ajustes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cronograma actualizado: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Resultados de Inspecciones: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Reporte de Desempeño del Proceso: 0 mini seconds publishing element
+Información: Activity:Validar  y Aprobar Entregables: 63 mini seconds publishing element
+Información: TaskDescriptor:Verificar internamente la calidad de los entregables: 0 mini seconds publishing element
+Información: RoleDescriptor:Control Calidad: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Producto de Trabajo: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Actas de Recorridos con acuerdos de ajustes a Realizar y plan de seguimiento: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Consolidados de Administración de Ajustes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Entregables inspeccionados con ajustes sugeridos: 0 mini seconds publishing element
+Información: TaskDescriptor:Validar y aprobar los entregables: 16 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Acta de Aprobación Final: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Registro de Aprobación Tácita: 0 mini seconds publishing element
+Información: CapabilityPattern:PRB: 306 mini seconds publishing element
+Información: TaskDescriptor:Análisis de Negocio e Ingeniería de Requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos Claro: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario área de negocio líder de la iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP cerrado: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de configuración de proceso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T3_Cierre del FSP: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP preliminar: 16 mini seconds publishing element
+Información: WorkProductDescriptor:FSP Cerrado y aprobado: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T3_Recorrido sobre el FSP: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP a ser validado: 16 mini seconds publishing element
+Información: WorkProductDescriptor:FSP validado y aprobado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Listado de observaciones y o cambios al FSP: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T4_Estimación etapa de requerimientos: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de Fuentes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Esimación de tiempo y esfuerzo: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T4_Estimación etapas de desarrollo y pruebas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Estimación de tiempo para actividades de desarrollo y pruebas: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T2_Apoyo al usuario en elaboración del FSP: 16 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos gerencia TI: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Histórico de briefs en curso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Brief: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Objetivos estratégicos de la gerencia solicitante: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Proceso de negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 15 mini seconds publishing element
+Información: TaskDescriptor:PRB_T2_Control de calidad del FSP: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento con observaciones y o modificaciones: 0 mini seconds publishing element
+Información: Activity:Administrar Requerimientos de la Solucion: 94 mini seconds publishing element
+Información: TaskDescriptor:Administrar los Requerimientos de la solución: 0 mini seconds publishing element
+Información: RoleDescriptor:Coordinador del servicio - Claro: 16 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Lider de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Visión: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Plan de Administración de Requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Repositorio de Requerimientos Actualizado: 0 mini seconds publishing element
+Información: TaskDescriptor:Administrar la trazabilidad de los requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Trazabilidad: 16 mini seconds publishing element
+Información: TaskDescriptor:Organizar requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Coodinador de requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Reportes de requerimientos implementados: 0 mini seconds publishing element
+Información: TaskDescriptor:Priorizar Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de desarrollo TI gerencias impactadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Repositorio de requerimientos priorizado: 0 mini seconds publishing element
+Información: TaskDescriptor:Mantenimiento de requerimientos para la reutilización: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Todos los entregables de Requerimientos: 0 mini seconds publishing element
+Información: Activity:Valoración de la solución implantada: 47 mini seconds publishing element
+Información: TaskDescriptor:Valorar la efectividad de la solución implantada: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Visión: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Indicadores o características definidas en T2_Proceso PRB1: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Métricas de los indicadores definidos en la solicitud: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos documentados: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Solución implantada: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Evaluación de la efectvidadde la solución implantada: 0 mini seconds publishing element
+Información: Activity:Configurar el proceso y: 93 mini seconds publishing element
+Información: TaskDescriptor:Recibir y Registrar Solicitud Formal de Trabajo de Requerimientos y Análisis de Negocio: 141 mini seconds publishing element
+Información: RoleDescriptor:Coodinador de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Confirmación de Cambio de Estado de la Solicitud enviado a Interesado(s): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Estimación de esfuerzo para la elaboración de la Configuración del Proceso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Solicitud con Estado actualizado: 0 mini seconds publishing element
+Información: TaskDescriptor:Elaborar y o Refinar Configuración del Proceso de Requerimientos y Análisis de Negocio: 0 mini seconds publishing element
+Información: RoleDescriptor:Coordinador del servicio - Claro: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Configuración del Proceso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Hoja de Configuración elaborada o actualizada: 0 mini seconds publishing element
+Información: TaskDescriptor:Definir plan de administración de requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Plan de Administración de Requerimientos Base: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Plan de Administración de Requerimientos: 0 mini seconds publishing element
+Información: TaskDescriptor:Definir la estrategia de análisis de negocio y Requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes: 0 mini seconds publishing element
+Información: Activity:Actividad nuevo_2: 46 mini seconds publishing element
+Información: TaskDescriptor:Radicar y Generar Numero de Consecutivo: 0 mini seconds publishing element
+Información: TaskDescriptor:Evaluación de Aprovación o Rechazo de la Solicitud: 0 mini seconds publishing element
+Información: TaskDescriptor:Administrar Dependencias: 16 mini seconds publishing element
+Información: Activity:Diseño: 47 mini seconds publishing element
+Información: Activity:Componentes de Diseño: 62 mini seconds publishing element
+Información: TaskDescriptor:Diseño de caso de uso: 0 mini seconds publishing element
+Información: TaskDescriptor:Diseño del subsistema: 0 mini seconds publishing element
+Información: TaskDescriptor:Diseño de la Operación: 0 mini seconds publishing element
+Información: TaskDescriptor:Diseño de Clase: 0 mini seconds publishing element
+Información: TaskDescriptor:Diseño de la cápsula: 0 mini seconds publishing element
+Información: TaskDescriptor:Revisar el Diseño: 0 mini seconds publishing element
+Información: Activity:Análisis de Negocio e Ingenieria de Requerimientos : 437 mini seconds publishing element
+Información: Activity:Identificar Motivadores del Proyecto: 156 mini seconds publishing element
+Información: TaskDescriptor:Identificar y Trazar los Motivadores de Negocio para la Solicitud: 0 mini seconds publishing element
+Información: Activity:Definir Contexto y Fuentes de Requerimientos: 113 mini seconds publishing element
+Información: TaskDescriptor:Definir contexto e inventario de fuentes de requerimientos de la solución: 0 mini seconds publishing element
+Información: Activity:Analizar Interesados: 63 mini seconds publishing element
+Información: TaskDescriptor:Analizar interesados: 0 mini seconds publishing element
+Información: Activity:Definir el : 46 mini seconds publishing element
+Información: TaskDescriptor:Definir el Problema y la Visión de la Solución: 16 mini seconds publishing element
+Información: Activity:Analizar el Negocio: 125 mini seconds publishing element
+Información: TaskDescriptor:Analizar el Proceso y Reglas de Negocio: 15 mini seconds publishing element
+Información: TaskDescriptor:Analizar los Sistemas actuales del Negocio: 0 mini seconds publishing element
+Información: TaskDescriptor:Analizar Documentación relacionada con el Negocio: 0 mini seconds publishing element
+Información: TaskDescriptor:Capturar Vocabulario Común: 16 mini seconds publishing element
+Información: TaskDescriptor:Definir el caso de negocio: 0 mini seconds publishing element
+Información: TaskDescriptor:Definir y Trazar necesidades del negocio: 0 mini seconds publishing element
+Información: Activity:Analizar y Documentar los Requerimientos: 94 mini seconds publishing element
+Información: TaskDescriptor:Definir alcance de la solución: 15 mini seconds publishing element
+Información: TaskDescriptor:Documentación y Modelamiento de requerimientos: 0 mini seconds publishing element
+Información: TaskDescriptor:Definir restricciones y supuestos: 109 mini seconds publishing element
+Información: TaskDescriptor:Documentar Requerimientos No Funcionales: 16 mini seconds publishing element
+Información: Activity:Estimar el Esfuerzo de Implementación: 47 mini seconds publishing element
+Información: TaskDescriptor:Estimar basado en PCU: 0 mini seconds publishing element
+Información: TaskDescriptor:Estimar basado en puntos funcion: 15 mini seconds publishing element
+Información: Activity:Concluir Proyecto Tecnico de Requerimientos y Análisis de Negocio: 47 mini seconds publishing element
+Información: TaskDescriptor:Preparación del paquete de requerimientos: 0 mini seconds publishing element
+Información: Activity:Obtener Requerimientos: 63 mini seconds publishing element
+Información: TaskDescriptor:Obtener Información: 0 mini seconds publishing element
+Información: Activity:Evaluar y validar: 105 mini seconds publishing element
+Información: TaskDescriptor:Asociar Requerimientos a Alternativas de Solución: 2 mini seconds publishing element
+Información: TaskDescriptor:Evaluar Alternativas de Solución Propuestas: 0 mini seconds publishing element
+Información: TaskDescriptor:Validar conformidad entre las posibles soluciones y los requerimientos: 0 mini seconds publishing element
+Información: TaskDescriptor:Evaluar nivel de preparación de la organización: 0 mini seconds publishing element
+Información: TaskDescriptor:Definir requerimientos de transición hacia la nueva solución: 0 mini seconds publishing element
+Información: RoleDescriptor:Arquitectura de TI: 0 mini seconds publishing element
+Información: RoleDescriptor:Experto TI del sistema: 16 mini seconds publishing element
+Información: RoleDescriptor:Gerente de proyecto de PMO: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Alcance de la Solución: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Alternativas de solución identificadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Caso de Negocios y rol del proyecto: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Caso del Negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Contexto de la Solución: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Contexto e Inventario de Fuentes de Información: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cronograma: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cronograma de Actividades: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cuadro de Mando Medio Ponderado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Diagramas de proceso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de contexto: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de contexto de la gerencia: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Evaluación de soluciones propuestas: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Entregables definidos en la matriz de configuración de proceso construidos o actualizados: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Entregables definidos en la matriz de configuración del proceso de la solicitud: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Especificación de Caso de Uso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Especificación de Requerimientos de Software (SRS): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Especificación Funcional: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Especificación Requerimientos No Funcionales: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Estimación de Esfuerzo basada en PCUs: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Estimación de Esfuerzo basada en Puntos Función: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Evaluación del nivel de preparación de la organización: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Glosario: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Glosario base: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Informe de avance: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Informe de incidentes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes ( hoja documentación): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes (hoja interesados): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes (hoja sistemas): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de configuración de proceso (Hoja Interesados): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Estimación basada en Puntos de Caso de Uso: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Estimación basada en Puntos de Función: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Modelo de Proceso del Negocio actual o futuro: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Modelo de Requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Necesidades del negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Objetivos del negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Objetivos y Problemas del Negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Paquete de Requerimientos para entrega: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Proceso Configurado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Proceso de negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Reglas de Negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos aprobados: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos de Transición: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Restricciones y supuestos identificados en las actividades de obtención de requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Resultado de la obtención de requerimientos: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Solución seleccionada: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Tablero de Control: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Técnicas de Obtención Configuradas para cada Fuente: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Técnicas de Obtención Definidas: 0 mini seconds publishing element
+Información: TaskDescriptor:Análisis de Negocio e Ingeniería de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos Claro: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario área de negocio líder de la iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP cerrado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de configuración de proceso: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Artefactos de análisis de negocio e ingeniería de requerimientos configurados para la solicitud: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T3_Cierre del FSP: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP preliminar: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP Cerrado y aprobado: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T3_Recorrido sobre el FSP: 16 mini seconds publishing element
+Información: WorkProductDescriptor:FSP a ser validado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:FSP validado y aprobado: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Listado de observaciones y o cambios al FSP: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T4_Estimación etapa de requerimientos: 15 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de Fuentes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Esimación de tiempo y esfuerzo: 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T4_Estimación etapas de desarrollo y pruebas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Estimación de tiempo para actividades de desarrollo y pruebas: 16 mini seconds publishing element
+Información: TaskDescriptor:PRB_T2_Apoyo al usuario en elaboración del FSP: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos gerencia TI: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Histórico de briefs en curso: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Brief: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Objetivos estratégicos de la gerencia solicitante: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Proceso de negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: TaskDescriptor:PRB_T2_Control de calidad del FSP: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento con observaciones y o modificaciones: 15 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Cronograma: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Informe de avance: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Informe de incidentes: 0 mini seconds publishing element
+Información: Task:PRB_T2_Apoyo al usuario en elaboración del FSP: 141 mini seconds publishing element
+Información: Task:PRB_T2_Control de calidad del FSP: 15 mini seconds publishing element
+Información: Discipline:disciplina_id_req: 16 mini seconds publishing element
+Información: Role:Control Calidad: 265 mini seconds publishing element
+Información: Artifact:Documento de contexto: 16 mini seconds publishing element
+Información: Artifact:Caso del Negocio: 0 mini seconds publishing element
+Información: Artifact:Glosario: 0 mini seconds publishing element
+Información: Artifact:Solución seleccionada: 15 mini seconds publishing element
+Información: Artifact:vision_negocio: 0 mini seconds publishing element
+Información: Artifact:reglas_negocio: 16 mini seconds publishing element
+Información: Artifact:Entregables definidos en la matriz de configuración de proceso construidos o actualizados: 0 mini seconds publishing element
+Información: Discipline:Revisión y Aprobación de Entregables: 15 mini seconds publishing element
+Información: Artifact:Evaluación de la efectvidadde la solución implantada: 16 mini seconds publishing element
+Información: RoleSet:Ingeniería de Requerimientos y Análisis de Negocio: 16 mini seconds publishing element
+Información: Artifact:alc_contexto_sis: 0 mini seconds publishing element
+Información: Artifact:caso de negocio rol del proyecto: 15 mini seconds publishing element
+Información: Artifact:Cuestionario DUE DILIGENCE: 0 mini seconds publishing element
+Información: Artifact:Documento de Arquitectura del Negocio: 16 mini seconds publishing element
+Información: Artifact:Enfoque del análisis de negocio: 0 mini seconds publishing element
+Información: Artifact:espec_CU: 15 mini seconds publishing element
+Información: Artifact:SRS: 0 mini seconds publishing element
+Información: Artifact:Estudio de Factibilidad: 16 mini seconds publishing element
+Información: Artifact:Evaluación del proceso de Análisis de Negocio: 0 mini seconds publishing element
+Información: Artifact:inv_fuentes: 16 mini seconds publishing element
+Información: Artifact:mat_config: 0 mini seconds publishing element
+Información: Artifact:mat_traza: 15 mini seconds publishing element
+Información: Artifact:mat_RACI: 0 mini seconds publishing element
+Información: Artifact:Modelo de Análisis del Negocio: 16 mini seconds publishing element
+Información: Artifact:mod_CU: 0 mini seconds publishing element
+Información: Artifact:Modelo de Diseño del Negocio: 15 mini seconds publishing element
+Información: Artifact:Modelo de Implantación del Negocio: 0 mini seconds publishing element
+Información: Artifact:Modelos de Casos de Uso del Negocio: 16 mini seconds publishing element
+Información: Artifact:plan_trabajo: 0 mini seconds publishing element
+Información: Artifact:Solicitud de Requerimiento de Software - Reporte: 16 mini seconds publishing element
+Información: Task:Analizar Arquitectura del Negocio: 15 mini seconds publishing element
+Información: Task:Analizar el área de Negocio: 0 mini seconds publishing element
+Información: Task:Análisis de operación del negocio: 16 mini seconds publishing element
+Información: Task:Definir contexto del sistema de negocio: 15 mini seconds publishing element
+Información: Task:Desarrollar la Visión: 16 mini seconds publishing element
+Información: Task:Detallar los Requerimientos de Software: 0 mini seconds publishing element
+Información: Task:Diseño de operación del negocio: 16 mini seconds publishing element
+Información: Task:Establecer y ajustar objetivos: 15 mini seconds publishing element
+Información: Task:Identificar los Actores y Casos de Uso del Negocio: 16 mini seconds publishing element
+Información: Task:Identificar Objetivos y KPI del negocio: 0 mini seconds publishing element
+Información: Task:Identificar Procesos de Negocio: 31 mini seconds publishing element
+Información: Task:Comunicar los resultados de requerimientos: 16 mini seconds publishing element
+Información: Task:Confirmar resultados de levantamiento de información: 16 mini seconds publishing element
+Información: Task:Definir necesidades del negocio: 0 mini seconds publishing element
+Información: Task:Especificar y modelar requerimientos: 16 mini seconds publishing element
+Información: Task:Evaluar la brecha de capacidades del negocio: 15 mini seconds publishing element
+Información: Task:Planear comunicaciones: 0 mini seconds publishing element
+Información: Task:Preparación para el levantamiento de información: 16 mini seconds publishing element
+Información: Task:Obtener Requerimientos de Interesado: 0 mini seconds publishing element
+Información: Task:Planear estrategia de análisis de negocio y Requerimientos: 16 mini seconds publishing element
+Información: Task:Priorizar Casos de Uso: 15 mini seconds publishing element
+Información: Task:Revisar el modelo de Procesos del Negocio: 0 mini seconds publishing element
+Información: Task:Revisar Requerimientos: 16 mini seconds publishing element
+Información: Task:Diseño de caso de uso: 0 mini seconds publishing element
+Información: Task:Diseño de Clase: 107 mini seconds publishing element
+Información: Task:Diseño de la cápsula: 0 mini seconds publishing element
+Información: Task:Diseño de la Operación: 16 mini seconds publishing element
+Información: Task:Diseño del Subsistema: 0 mini seconds publishing element
+Información: Task:Revisar el Diseño: 16 mini seconds publishing element
+Información: Template:Cuadro de Mando Medio Ponderado: 2 mini seconds publishing element
+Información: Template:Tablero de Control: 15 mini seconds publishing element
+Información: Artifact:Documento con observaciones y o modificaciones: 0 mini seconds publishing element
+Información: Artifact:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: Role:Líder de requerimientos gerencia TI: 236 mini seconds publishing element
+Información: Artifact:Histórico de briefs en curso: 2 mini seconds publishing element
+Información: Artifact:Brief: 0 mini seconds publishing element
+Información: Artifact:Objetivos estratégicos de la gerencia solicitante: 0 mini seconds publishing element
+Información: Artifact:Proceso de negocio: 16 mini seconds publishing element
+Información: Task:Radicar y Generar Numero de Consecutivo: 0 mini seconds publishing element
+Información: Task:Evaluación de Aprovación o Rechazo de la Solicitud: 0 mini seconds publishing element
+Información: Task:Administrar Dependencias: 15 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Trazabilidad: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de desarrollo TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Configuración del Proceso: 0 mini seconds publishing element
+Información: RoleDescriptor:Coodinador de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Visión: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 15 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de desarrollo TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 16 mini seconds publishing element
+Información: RoleDescriptor:Coodinador de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Coordinador del servicio - Claro: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Visión: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes (hoja interesados): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Trazabilidad: 15 mini seconds publishing element
+Información: RoleDescriptor:Experto TI del sistema: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Documento de Visión: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Inventario de fuentes: 16 mini seconds publishing element
+Información: WorkProductDescriptor:Necesidades del negocio: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Configuración del Proceso: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Lider de requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Hoja de Configuración elaborada o actualizada: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Configuración del Proceso: 0 mini seconds publishing element
+Información: RoleDescriptor:Coordinador del servicio - Claro: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 0 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 15 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Propuesta de Especificación Funcional (FSP): 0 mini seconds publishing element
+Información: RoleDescriptor:Arquitectura de TI: 0 mini seconds publishing element
+Información: RoleDescriptor:Gerente de proyecto de PMO: 0 mini seconds publishing element
+Información: RoleDescriptor:Ingeniero de Requerimientos: 16 mini seconds publishing element
+Información: RoleDescriptor:Usuario de Negocio Responsable de la Iniciativa: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Especificación de Requerimientos de Software (SRS): 0 mini seconds publishing element
+Información: WorkProductDescriptor:Requerimientos: 0 mini seconds publishing element
+Información: WorkProductDescriptor:Matriz de Trazabilidad: 15 mini seconds publishing element
+Información: RoleDescriptor:Líder de requerimientos TI gerencias impactadas: 0 mini seconds publishing element
+Información: RoleDescriptor:Experto TI del sistema: 0 mini seconds publishing element
+Información: Artifact:Cronograma: 0 mini seconds publishing element
+Información: Artifact:Informe de avance: 16 mini seconds publishing element
+Información: Artifact:Informe de incidentes: 0 mini seconds publishing element
+Información: Task:Recibir y Análizar Solicitud de Usuario: 0 mini seconds publishing element
+Información: Template:Glosario: 16 mini seconds publishing element
+Información: Template:Alcance y Contexto del Sistema: 0 mini seconds publishing element
+Información: Template:Cuestionario DUE DILIGENCE: 15 mini seconds publishing element
+Información: Template:SRS - CU: 0 mini seconds publishing element
+Información: Template:SRS - Esp - CU: 18 mini seconds publishing element
+Información: Template:SRS - Especificación: 0 mini seconds publishing element
+Información: Template:Plantilla Estudio de Factibilidad: 15 mini seconds publishing element
+Información: Template:Inventario de Fuentes: 0 mini seconds publishing element
+Información: Template:Matriz de Configuración: 16 mini seconds publishing element
+Información: Template:Matriz de Trazabilidad: 0 mini seconds publishing element
+Información: Template:Matriz RACI: 16 mini seconds publishing element
+Información: Template:SRS - Reporte: 0 mini seconds publishing element
+Información: Artifact:Solicitud de Requerimiento: 15 mini seconds publishing element
+Información: Artifact:sol_usuario: 0 mini seconds publishing element
+Información: Artifact:paq_entrega: 0 mini seconds publishing element
+Información: Artifact:lista_riesgos: 16 mini seconds publishing element
+Información: Artifact:Plan actividades de Análisis de Negocio: 0 mini seconds publishing element
+Información: Artifact:Alcance de la Solución y Caso del Negocio: 0 mini seconds publishing element
+Información: Artifact:plan_admon_req: 15 mini seconds publishing element
+Información: Template:Solicitud de Usuario: 0 mini seconds publishing element
+Información: Template:Plan de Administración de Requerimientos: 16 mini seconds publishing element
+Información: : Publishing time: 0 minutes 15 seconds
